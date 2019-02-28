@@ -7,6 +7,7 @@
 /* Header */
 
 	#header {
+		margin-top: 4em;
 		@include color-typography(invert);
 		@include vendor('align-items', 'center');
 		@include vendor('display', 'flex');

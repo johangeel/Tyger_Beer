@@ -23,7 +23,7 @@
 		text-align: center;
 		z-index: 1;
 		min-height: 100vh;
-
+		justify-content: center;
 		h1 {
 			font-size: 5rem;
 			line-height: 1;
@@ -43,6 +43,7 @@
 				@include vendor('transform', 'translateY(2rem)');
 				opacity: 0;
 				visibility: hidden;
+				margin-bottom: -2em;
 			}
 		}
 
