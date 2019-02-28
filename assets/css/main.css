@@ -100,6 +100,12 @@ html {
     html {
       font-size: 10pt; } }
 
+@font-face {
+  font-family: Navigator;
+  src: url(./fonts/Navigator.tff); }
+h1 {
+  font-family: Navigator !important; }
+
 body {
   color: #212931; }
 

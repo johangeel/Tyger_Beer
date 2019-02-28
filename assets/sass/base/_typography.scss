@@ -22,6 +22,14 @@
 		}
 	}
 
+	@font-face {
+	  font-family: Navigator;
+	  src: url(./fonts/Navigator.tff);
+	}
+	h1{
+		font-family: Navigator !important;
+	}
+
 	body {
 		color: _palette(fg);
 	}
