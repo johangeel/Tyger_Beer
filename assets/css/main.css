@@ -1196,7 +1196,8 @@ button,
     overflow: hidden;
     padding: 0;
     white-space: nowrap;
-    box-shadow: none !important; }
+    box-shadow: none !important;
+    margin-bottom: -14em; }
     input[type="submit"].icon.solo:before,
     input[type="reset"].icon.solo:before,
     input[type="button"].icon.solo:before,
