@@ -1989,6 +1989,19 @@ table.alt tbody tr td {
       background-size: auto,								auto,														auto 175%; } }
 
 /* Intro */
+.hero--background {
+  background: url(images/boat.jpg);
+  background-size: cover;
+  background-position: bottom;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  mix-blend-mode: multiply;
+  z-index: -1;
+  image-rendering: pixelated; }
+
 #intro {
   color: #ffffff;
   padding: 8rem 4rem 6rem 4rem ;

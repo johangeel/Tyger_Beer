@@ -5,7 +5,19 @@
 ///
 
 /* Intro */
-
+.hero--background{
+	background: url(images/boat.jpg);
+	background-size: cover;
+	background-position: bottom;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	mix-blend-mode: multiply;
+	z-index: -1;
+	image-rendering: pixelated;
+}
 	#intro {
 		@include color-typography(invert);
 		@include color-button(invert);
