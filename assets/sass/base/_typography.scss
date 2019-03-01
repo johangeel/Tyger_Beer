@@ -27,7 +27,7 @@
 	  src: url(./fonts/Navigator.tff);
 	}
 	h1{
-		font-family: Navigator !important;
+		font-family: 'Navigator', 'Playfair Display', serif !important;
 	}
 
 	body {
@@ -73,7 +73,7 @@
 		font-family: _font(family-heading);
 		font-weight: _font(weight-heading);
 		line-height: 1.5;
-		letter-spacing: 0.075em;
+		// letter-spacing: 0.075em;
 		text-transform: uppercase;
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
 

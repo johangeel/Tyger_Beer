@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Playfair+Display:700|Source+Sans+Pro:900");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display:400|Source+Sans+Pro:900");
 /*
 	Massively by HTML5 UP
 	html5up.net | @ajlkn
@@ -104,7 +104,7 @@ html {
   font-family: Navigator;
   src: url(./fonts/Navigator.tff); }
 h1 {
-  font-family: Navigator !important; }
+  font-family: 'Navigator', 'Playfair Display', serif !important; }
 
 body {
   color: #212931; }
@@ -137,9 +137,8 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", serif;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.075em;
   text-transform: uppercase;
   margin: 0 0 1rem 0; }
   h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1166,7 +1165,7 @@ button,
   display: inline-block;
   font-family: "Playfair Display", serif;
   font-size: 0.8rem;
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: 0.075em;
   height: 3rem;
   line-height: 3rem;
@@ -1347,7 +1346,7 @@ form {
 label {
   display: block;
   font-family: "Playfair Display", serif;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.075em;
   font-size: 0.8rem;
@@ -1822,7 +1821,7 @@ table {
   table th {
     font-family: "Playfair Display", serif;
     font-size: 0.8rem;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 0.075em;
     line-height: 1.5;
     padding: 0 0.75rem 0.75rem 0.75rem;
@@ -1886,7 +1885,7 @@ table.alt tbody tr td {
     display: inline-block;
     font-family: "Playfair Display", serif;
     font-size: 0.8rem;
-    font-weight: 700;
+    font-weight: 400;
     height: 3rem;
     letter-spacing: 0.075em;
     line-height: calc(3rem - 4px);
@@ -2283,7 +2282,7 @@ table.alt tbody tr td {
     -ms-flex-shrink: 1;
     flex-shrink: 1;
     font-family: "Playfair Display", serif;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 0.075em;
     list-style: none;
     margin-bottom: 0;
@@ -2712,7 +2711,7 @@ table.alt tbody tr td {
   cursor: default;
   font-family: "Playfair Display", serif;
   font-size: 0.8rem;
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: 0.075em;
   line-height: 1.5;
   text-align: center;
@@ -2784,7 +2783,7 @@ table.alt tbody tr td {
   color: #ffffff;
   font-family: "Playfair Display", serif;
   font-size: 0.9rem;
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: 0.075em;
   padding: 0.375rem 1.25rem;
   text-transform: uppercase;
@@ -2848,7 +2847,7 @@ table.alt tbody tr td {
         font-family: "Playfair Display", serif;
         font-size: 0.9rem;
         font-size: 0.9rem;
-        font-weight: 700;
+        font-weight: 400;
         letter-spacing: 0.075em;
         padding: 0.75rem 0;
         text-transform: uppercase; }
