@@ -111,8 +111,12 @@
 }
 
 #modal_content nav .av_no {
-  /* background-color: #938d95; */
-  color: #000000;
+  color: #000000 !important;
+  background-color: #fff;
+}
+
+#modal_content nav .av_no:hover {
+  background-color: #fff;
 }
 
 #modal_content nav .av_btn:hover {
