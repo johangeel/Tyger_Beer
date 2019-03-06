@@ -128,7 +128,7 @@
     max-width: 500px;
     height: 500px;
     padding: 3em;
-    /* border-radius: 100%; */
+    border-radius: 0;
     background-position: center 3em;
     background-size: 160px auto;
     font-size: 16px;
