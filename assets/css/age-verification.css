@@ -109,6 +109,10 @@
   background-color: #2d2d2d;
 }
 
+#modal_content nav .av_go:hover {
+  color: #2d2d2d;
+}
+
 #modal_content nav .av_no {
   color: #000000 !important;
   background-color: #fff !important;
