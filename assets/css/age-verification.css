@@ -112,10 +112,11 @@
 
 #modal_content nav .av_no {
   /* background-color: #938d95; */
+  color: #000000;
 }
 
 #modal_content nav .av_btn:hover {
-  background-color: #1e0924;
+  background-color: #424242;
 }
 
 #modal_content #modal_regret_wrapper nav a.av_btn {
