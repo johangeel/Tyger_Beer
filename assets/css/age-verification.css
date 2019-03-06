@@ -113,7 +113,7 @@
 
 #modal_content nav .av_no {
   color: #000000 !important;
-  background-color: #fff;
+  background-color: #fff !important;
 }
 
 #modal_content nav .av_no:hover {
