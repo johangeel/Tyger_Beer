@@ -110,7 +110,7 @@
 }
 
 #modal_content nav .av_go:hover {
-  color: #2d2d2d;
+  color: #fff !important;
 }
 
 #modal_content nav .av_no {
