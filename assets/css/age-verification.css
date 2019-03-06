@@ -47,6 +47,7 @@
 #modal_content h2 {
   margin: 0 0 0 0;
   font: normal 15px/1.3em 'Gill Sans W01 Medium', Helvetica, arial, sans-serif;
+  font-family: 'Navigator', 'Playfair Display', serif !important;
 }
 
 #modal_content p {
