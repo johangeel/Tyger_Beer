@@ -104,6 +104,7 @@
   font: normal .7em/1em 'AmericanTypwrterITCW01- 731031';
   text-transform: none;
   letter-spacing: 0;
+  border: none;
 }
 
 #modal_content nav .av_go {
