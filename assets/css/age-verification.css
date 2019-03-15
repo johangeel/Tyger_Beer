@@ -40,7 +40,6 @@
 
 #modal_content .content_wrapper {
   padding-top: 8em;
-  margin: 3em auto 0;
   text-align: center;
 }
 
@@ -156,7 +155,6 @@
   }
 
   #modal_content .content_wrapper {
-    margin: 3em auto 0;
     text-align: center;
   }
 
@@ -180,4 +178,17 @@
     margin: 1.6em auto 0;
     font-size: 1em;
   }
+
+}
+.hidden {
+  display: none !important;
+}
+
+#modal_content .flaglink {
+  margin: 0 5px;
+  border: none;
+}
+
+#modal_content .flag {
+  max-width: 50px;
 }
