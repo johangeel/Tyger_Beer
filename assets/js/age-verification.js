@@ -81,27 +81,27 @@ const ages = {
 }
 
 av_selectUSA = function(e) {
-  console.log('select USA')
-  setAge(ages['usa'])
-  hideAcceptance()
+  console.log('select USA');
+  setAge(ages['usa']);
+  hideAcceptance();
 }
 
 av_selectBE = function(e) {
-  console.log('select BE')
-  setAge(ages['be'])
-  hideAcceptance()
+  console.log('select BE');
+  setAge(ages['be']);
+  hideAcceptance();
 }
 
 av_selectNL = function(e) {
-  console.log('select NL')
-  setAge(ages['nl'])
-  hideAcceptance()
+  console.log('select NL');
+  setAge(ages['nl']);
+  hideAcceptance();
 }
 
 setAge = function(age) {
-  const x = document.getElementsByClassName('beer_age')
+  const x = document.getElementsByClassName('beer_age');
   for (var i = 0; i < x.length; i++) {
-    x[i].innerText = age
+    x[i].innerText = age;
   }
 }
 
